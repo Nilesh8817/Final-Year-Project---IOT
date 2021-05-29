@@ -13,14 +13,23 @@ components and the results are satisfied with the expectation.</p>
 
 ## Hardware Requirements.
 -- Arduino - Atmega 328.
+
 -- GPS Modem.
+
 -- GSM Modem.
+
 -- LM 35 - Temperature sensor.
+
 -- Resistor.
+
 -- Liquid Crystal Display (LCD).
+
 -- Light Emitting Diode (LED).
+
 -- Capacitor.
+
 -- Push button.
+
 -- Vibration Sensor.
 
 ## System
